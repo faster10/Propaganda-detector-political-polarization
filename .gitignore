@@ -1,0 +1,17 @@
+# vscode
+.vscode/
+*.code-workspace
+
+
+# venv stuff:
+venv/
+bin/
+include/
+lib/python3.6
+share/python-wheels
+
+# pycache
+__pycache__/
+
+*.swp
+
