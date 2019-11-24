@@ -7,7 +7,7 @@
 Icon
 
 #Unix Swap Files
-.swp
+*.swp
 
 # Thumbnails
 ._*
