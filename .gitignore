@@ -6,6 +6,9 @@
 # Icon must end with two \r
 Icon
 
+#Unix Swap Files
+.swp
+
 # Thumbnails
 ._*
 
