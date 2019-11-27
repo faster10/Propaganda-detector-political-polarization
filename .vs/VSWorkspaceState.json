@@ -1,10 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\data",
-    "\\data\\baselines",
-    "\\LDA"
+    "\\data"
   ],
-  "SelectedNode": "\\LICENSE",
+  "SelectedNode": "\\data\\datasets",
   "PreviewInSolutionExplorer": false
 }
